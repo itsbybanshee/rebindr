@@ -1,6 +1,6 @@
 [package]
 name = "rebindr"
-version = "3.0.0"
+version = "1.0.0"
 edition = "2021"
 description = "rebindr: map controller buttons (incl. the GameSir Share button) to Windows shortcuts"
 
